@@ -1,6 +1,6 @@
 import { v4 as uuid } from 'uuid'
 
-export const hello = 'world'
+export const hello = 'world' //example
 
 export default [
   {
